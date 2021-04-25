@@ -5,7 +5,7 @@ class mix
     public static void main(String[] args)
     {
         two t = new two();
-        
+        System.out.println("modifying my file for learning git");
     }
     
 }
