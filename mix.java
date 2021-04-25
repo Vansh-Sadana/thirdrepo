@@ -6,6 +6,8 @@ class mix
     {
         two t = new two();
         System.out.println("modifying my file for learning git");
+        
+        System.out.println("modifying my file for learning git and now adding this file to branch");
     }
     
 }
