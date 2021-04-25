@@ -8,6 +8,8 @@ class mix
         System.out.println("modifying my file for learning git");
         
         System.out.println("modifying my file for learning git and now adding this file to branch");
+        
+        System.out.println("modifying my file for learning git and now adding this file to branch 2nd time for github.com");
     }
     
 }
